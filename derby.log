@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 14 14:50:47 PKT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-3025-3231-0000079d9cb0 
+on database directory /home/usman/Documents/ETL-CHALLENGE/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/usman/.local/share/virtualenvs/ETL-CHALLENGE-bvuvn3JT/lib/python3.7/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.10+9-Ubuntu-0ubuntu1.18.04
+user.dir=/home/usman/Documents/ETL-CHALLENGE
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-136-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
