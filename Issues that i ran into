@@ -1,0 +1,5 @@
+1. Pyspark was not working properly in windows, had to use linux instead, windows was unable to locate JDBC ".jar" file.
+2. Was unable understand Apache Spark Env properly, so used Pyspark lib in linux.
+3. Was not sure how to use Posgres DDL in PySpark
+4. Installed postgres -> successsfully connected to PySpark -> later found out, can only perform read and write (no Update/Upsert).
+5. Created Managed Table but still having issue in mergin old and new data.
